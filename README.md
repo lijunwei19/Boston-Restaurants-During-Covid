@@ -4,6 +4,6 @@ creat a database of resturants from various sources to understand how these busi
 ## Project Deliverable 0
 - Teams met with project client
 - Submitted project scope and  final project description
-  -- Data souces
-  -- Strategic question to be answered
-  -- Step by step approach for cleaning data and answering strategic questions
+  1. Data souces
+  2. Strategic question to be answered
+  3. Step by step approach for cleaning data and answering strategic questions
