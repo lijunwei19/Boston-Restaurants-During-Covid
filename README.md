@@ -7,3 +7,10 @@ creat a database of resturants from various sources to understand how these busi
   1. Data souces
   2. Strategic question to be answered
   3. Step by step approach for cleaning data and answering strategic questions
+
+### Project Scope
+
+### Project Description
+#### Data souces
+#### Strategic Question
+#### Approach
