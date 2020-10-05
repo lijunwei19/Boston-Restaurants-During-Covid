@@ -11,9 +11,9 @@ creat a database of resturants from various sources to understand how these busi
 ### Project Scope
 
 ### Project Description
-'''
+
   This project will create a database of restaurants from variable sources to undertand how those businesses have benn impacted bu Coivd-19. qa
-'''
+
 #### Data souces
 #### Strategic Question
 #### Approach
